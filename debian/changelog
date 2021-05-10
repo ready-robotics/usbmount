@@ -1,3 +1,9 @@
+usbmount (0.0.25) unstable; urgency=medium
+
+  * Update READY-specific configuration for Forge/OS 5.0.0
+
+ -- Michael McGrath <michael.mcgrath@ready-robotics.com> Mon, 10 May 2021 7:48:00 -0400
+
 usbmount (0.0.24) unstable; urgency=medium
 
   * Use systemd to manage [dis]mounting (based on https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=774149#177)
